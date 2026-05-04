@@ -1,3 +1,5 @@
+TP REALIZADO POR MARTINA KORINFELD Y BRANDON GAGUINE
+
 Parte 1:
 Tratamos de investigar un poquito sobre postman antes de usarlo y buscando también en el momento pudimos entender sobre las URL. Igualmente tuvimos errores al principio
 ObtenerNombre devuelve toda la información del pokemon desde el nombre
